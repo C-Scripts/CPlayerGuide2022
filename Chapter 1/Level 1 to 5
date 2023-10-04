@@ -1,0 +1,55 @@
+String 
+string name;
+Console.WriteLine("Hello: " + name);
+
+Console.WriteLine("Enter your name: ");
+Console.WriteLine("Hello " + name);
+
+Console.WriteLine("The Bread is ready");
+Console.WriteLine("Noted " + name + " got bread");
+
+Console.WriteLine("What kind of thing are talking about");
+string a = Console.ReadLine();
+Console.WriteLine("How would you describe it? Big? Azure? Tattered");
+string b = Console.ReadLine();
+string c = "Of Doom";
+string d = "30000";
+
+Console.WriteLine("The " + b + " " + a + " of " + c + " " + d + "!");
+
+
+Creating Variables 
+
+string username;
+username = Console.ReadLine();
+Console.WriteLine("Hi" + " " + username);
+
+string favoriteColor;
+favoriteColor = Console.ReadLine();
+Console.WriteLine("Hi " + favoriteColor);
+
+int score;
+
+error "Generic Users is not integers
+
+score = 0;
+score = 11;
+score = -1356;
+
+
+int a;
+int b;
+
+a = 0;
+b = 1;
+
+b = a;
+a = -3;
+
+a -3 b 0
+Console.WriteLine("A " + a + " B " + b);
+
+int d, e, f;
+d = e = f = 10;
+
+Console.WriteLine(d + " " + f + " " + e);
